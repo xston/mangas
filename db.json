@@ -1,0 +1,14 @@
+{
+  "items": [
+    { 
+		"id": 1, 
+		"name": "One Piece", 
+		"image": "https://static1.purebreak.com/articles/1/18/82/51/@/701872-one-piece-faut-il-regarder-l-integrale-diapo-1.jpg" 
+		},
+    { 
+		"id": 2, 
+		"name": "Naruto", 
+		"image": "https://a.wattpad.com/cover/114687163-288-k982526.jpg"
+		}
+  ]
+}
